@@ -7,7 +7,5 @@ verify_ssl = true
 pbr = "*"
 
 [packages]
-rdflib = "~=5.0"
-sparqlwrapper = ">=1.8.2"
 
 
